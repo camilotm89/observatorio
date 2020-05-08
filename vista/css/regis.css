@@ -1,0 +1,124 @@
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+
+	background: #999999 ;
+		background-attachment: fixed;
+
+
+}
+
+.ingresar{
+	background: red;
+
+
+}
+
+aside h3{
+	color: white;
+}
+
+.formulario1{
+	background: rgba(0,0,0,.7);
+	padding: 10px;border-radius: 5px;
+	border-color: white;
+	box-shadow: 1px 1px 20px white;
+		width: 400px;
+		transform: translate(-40%,-83%);
+	
+	float: right ;
+	padding- right: 0px;
+	
+}
+
+form{
+	margin: 0px auto;
+
+}
+.select{
+	float: right;
+	border-radius: 5px;
+	height: 30px;
+	width: 190px;
+	transform: translate(0%, -29px);
+}
+.se{
+	float: right;
+	border-radius: 5px;
+	height: 30px;
+	width: 180px;
+
+
+}
+.sel{
+	border-radius: 5px;
+	height: 30px;
+	width: 180px;
+
+}
+.ju{
+	float: right;
+	border-radius: 5px;
+height: 30px;
+	width: 180px;
+	transform: translate(0%, -45px);
+
+}
+.yul{
+	float: left;
+	border-radius: 5px;
+height: 30px;
+	width: 180px;
+	transform: translate(0%, -0px);
+}
+.ciudad{
+	float: right;
+	border-radius: 5px;
+height: 30px;
+	width: 180px;
+	transform: translate(0%, -30px);
+
+}
+.n{
+	border-radius: 5px;
+	height: 30px;
+	width: 380px;
+
+}
+.k{
+float: left;
+	border-radius: 5px;
+	height: 30px;
+	width: 80px;	
+}
+
+.botones{
+	background: red;
+	display: inline-block;
+	font-size: 20px;
+	padding: 5px ;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid yellow;
+	text-decoration: none;
+
+
+}
+.botone2{
+	background: blue;
+	display: inline-block;
+	font-size: 20px;
+	padding: 5px ;
+	text-align: center;
+	border-radius: 5px;
+	border: 1px solid yellow;
+	text-decoration: none;
+margin-bottom:  10px;
+
+
+
+}

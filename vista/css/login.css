@@ -1,0 +1,29 @@
+
+body{
+
+	
+		background-attachment: fixed;
+
+
+}
+
+.formulario{
+	background: rgba(0,0,0,.1);
+	padding: 10px;
+	
+}
+.ingresar{
+	background: #0000FF;
+
+}
+
+header{
+	background: #083858;
+	padding: 20px;
+	box-shadow: 1px 1px 5px #000;
+}
+img{
+	padding: 0px;
+	width: 100px;
+
+}
